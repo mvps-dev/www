@@ -1,8 +1,7 @@
-# www
-www.mvps.dev
+# [www.mvps.dev](https://www.mvps.dev)
 
 
-# MVPS.dev, Marketplace
+## MVPS.dev, Marketplace
 
 What is multi-vendor marketplace software?
 
